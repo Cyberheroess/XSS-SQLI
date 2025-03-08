@@ -7,6 +7,7 @@ XSS + SQL Injection + Web Shell Upload Bot
 
 ## **📌 Tentang Script Ini**  
 Script ini adalah **bot sederhana** yang menggabungkan tiga teknik serangan web yang umum:  
+![17413997546818279413700194614756](https://github.com/user-attachments/assets/334b0168-6210-4f37-b99a-6ffbececf19b)
 
 1️⃣ **XSS (Cross-Site Scripting)** → Menyisipkan script berbahaya untuk mencuri **cookie/session** user.  
 2️⃣ **SQL Injection** → Mengeksploitasi celah SQL untuk mendapatkan **data sensitif** dari database.  
